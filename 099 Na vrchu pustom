@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>99</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -17,14 +17,14 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[]
-.F                           C7            Bb     C7        F
-1Na vrchu kríž zvláštny      stál,|nemúdry zástup sa iba    smial. 
-2Pre teba, pre mňa krv predrahá,|tú istú   vládu  až podnes má.  
-3Keď dlh môj platil si živo__tom,|srdce ti dávam, zavládni  v ňom. 
-.                 F7         Bb              F        C7        F 
+.F                             C7            A#     C7        F
+1Na vrchu pustom kríž zvláštny stál,|nemúdry zástup sa iba    smial.
+2Pre teba, pre mňa krv   predrahá|tú istú    vládu  až podnes má.
+3Keď dlh môj platil si     životom,|srdce Ti dávam, zavládni  v ňom.
+.                 F7         A#              F        C7        F
 1Kristovej krvi   tam tiekol prúd,|za naše   hriechy, za všetok ľud.
-2Milosť nám žiari z krvavých rán,|tak blízky nám je   života    Pán. 
-3Radosťou tvojou  naplne_____ný,|chválim ťa  Kráľ môj osláve____ný.
+2Milosť nám žiari z krvavých rán,|tak blízky nám je   života    Pán.
+3Radosťou Tvojou  naplne_____ný,|chválim Ťa, Kráľ môj osláve____ný.
 ;
 [C]
 .       F                           C7                      F     C7
@@ -32,6 +32,4 @@
 .           F
  tak slávny kríž. Svoj svätý.||
 .F                           C7                  F    C7        F
- Život si pre nás|dobrovoľne dal|a biednym ľuďom|vyzískal vykúpenie. 
- 
- </lyrics></song>
+ Život si pre nás|dobrovoľne dal|a biednym ľuďom|vyzískal vykúpenie.</lyrics></song>
