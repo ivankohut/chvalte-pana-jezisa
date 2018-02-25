@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>154</hymn_number>
-  <presentation>C1 V1 C2 V2</presentation>
+  <presentation>C V1 C V2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -17,20 +17,22 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[C]
-.D   F# Hmi G A   D_F# Hmi     F#mi  G             D   E A     D   A D
-1Halelu_ja, Haleluja!| Za naše spase_nie spievam. |Haleluja,:] Haleluja!
-2Halelu_ja, Haleluja!| Za odpustenie hriechov znie|Haleluja,:] Haleluja!
-;
+.D   F# Hmi G A   D_F# Hmi     F#mi  G             D   E A  
+ Halelu_ja, haleluja!| Za naše spase_nie spievam  |haleluja.||
+ Halelu_ja, haleluja!| Za odpustenie hriechov znie|haleluja.
 [V]
+.D   A D
+1Haleluja!
+2Haleluja!
 .D            Hmi          Emi         A
 1Za istotu    spasenia,|že nemusím sa  báť,
-2Za lásku, čo s očí bratov|žiari každý deň,
+2Za lásku, čo z očí bratov|žiari každý deň,
 .D             Hmi          E                A
-1modlitbu a    písmo môžem |v rukách svojich mať.||
+1modlitbu a    Písmo môžem |v rukách svojich mať.||
 2pozdvihne ma, podoprie,|ja s nimi kráčať    chcem.||
 .D          Hmi          Emi         A
 1Prikázania Tvoje|krokom ukazu_jú    smer,
 2Naša cesta vo večnosti| nádherný má cieľ,
 .D             Hmi           C             A
 1zasľúbenia    srdcu vravia:|Neboj sa, len ver!
-2Pane náš, kde s tebou máme |na dedičstve  diel.</lyrics></song>
+2Pane náš, kde s Tebou máme |na dedičstve  diel.</lyrics></song>
