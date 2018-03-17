@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>150</hymn_number>
-  <presentation>1 C 2 C 3 C 4 C</presentation>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .Ami                                             Dmi
 1Prinášame pozdrav bratom, sestrám od nás vzdialeným,
 2Prinášame pozdrav mladým, prinášame pozdrav     vám,

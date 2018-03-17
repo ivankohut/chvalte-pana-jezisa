@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>129</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .         F                  Bb     F                  G7   C7
 1Božie    úmysly s nami sú   úžas___né,|plány Jeho     sláv_ne:||
 2Kto nás  od lásky Kristovej odlú___či,|čoho báť sa    má___me?||

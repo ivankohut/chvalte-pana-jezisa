@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>128</hymn_number>
-  <presentation>1 C 2 C</presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .           G      G7     C            G                   Ami_D      G
 1Bez Boha   blúdil som|ja svetom sám a sám,|bez plnej radosti|nepokoj_ný.||
 2Ja nechcem nikdy  ostať| bez Boha a   sám,|bez Jeho   pomoci|žiť iba v tmách.||

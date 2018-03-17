@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>22</hymn_number>
-  <presentation>1 C1 2 C2 3 C3</presentation>
+  <presentation>V1 C1 V2 C2 V3 C3</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .                E                       H7 E
 1Ako v zošite    žiaka  |ťažký zložitý   príklad,
 2Správnu odpoveď musí   |prijať osobne   každý. 

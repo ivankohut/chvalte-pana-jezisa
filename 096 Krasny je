@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>96</hymn_number>
-  <presentation>1 C 2 C 3 C 4 C 5 C</presentation>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .       A          A7        D        Hmi           E      E7               A_E7
 1Krásny je, krásny je|Ježiš, môj Spasiteľ,|On je    môj najlepší uči________teľ.
 2Vzácny je, vzácny je|Ježiš, môj Spasiteľ,|živo_____ta več_ného dal mi      diel.

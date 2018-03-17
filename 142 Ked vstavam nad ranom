@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>142</hymn_number>
-  <presentation>1 C 2 C</presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .A                      D         E7  A         F#mi      Hmi        E
 1Keď vstávam nad ránom,|zobúdzaš  ma,|modlitbou radostnou|skvie sa domov.||
 2Mám žitia sprievodcu,| Pán Ježiš sám|vedie ma  na ceste |v žitia Ka_nán.||

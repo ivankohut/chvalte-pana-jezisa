@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>110</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .D                      A   D                  E   A      E   A_A7
 1Telo, chlieb jedzme na kolenách,|telo, chlieb jedzme  na kolenách.
 2Víno, krv pime      na kolenách,|víno, krv    pi__me  na kolenách.

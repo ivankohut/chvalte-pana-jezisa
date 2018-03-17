@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>73</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .       G             A7  D            Ami     D7     G
 1Svoje  svieže, mladé ro__ky |Kristu   chceme  zasvä__tiť, 
 2Pre tú Jeho veľkú    lás_ku,|v ktorej On sa   skláňa k nám, 

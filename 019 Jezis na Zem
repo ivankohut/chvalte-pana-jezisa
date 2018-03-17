@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>19</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .F             Bb         F     Dmi    C7
 1Ježiš na Zem  zostúpil, |člove_kom sa stal. 
 2Pán Ježiš ma  miluje,   |teba  ľúbi   tiež. 

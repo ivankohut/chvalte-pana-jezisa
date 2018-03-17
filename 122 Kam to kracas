@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>122</hymn_number>
-  <presentation>1 C 2 C </presentation>
+  <presentation>V1 C V2 C </presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .E                         A                          H7
 1Kam to kráčaš do neznáma,|osamelý a bez Pána?       |Stoj, stoj! Stoj!||
 2Nehovor, že nemáš času,  |že veríš len svojmu hlasu,|pozor daj!||

@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>90</hymn_number>
-  <presentation>1 C 2 C</presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .G             C      Ami            D    H             Emi
 1 Prečo máš sa trápiť,|v cele klamu, bied,|prikutý ku   hriechu,||
 2 Zastav kroky žitia, |čo ťa vedú    späť,|pozri svetlo jasné,||

@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>59</hymn_number>
-  <presentation>1 C 2 C 3 C </presentation>
+  <presentation>V1 C V2 C V3 C </presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .Emi                     F#      Fmaj7
 1 Nad mŕtvou nádejou|dnes plače  svet, 
 2 Na kríži zomrel|svätý   Boží   Syn, 

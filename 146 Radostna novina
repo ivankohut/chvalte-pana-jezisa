@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>146</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .E          H7      E          H7               C#mi      H7         E
 1Radostnú   novinu  hlásame    dnes,|prichádza  Spasiteľ  na našu    zem.
 2K večnosti pozýva, poď s nami tiež,|život tvoj večný je  najdrahšia vec.

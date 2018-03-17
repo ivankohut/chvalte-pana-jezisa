@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>60</hymn_number>
-  <presentation>1 C1 2 C2 3 C3 T</presentation>
+  <presentation>V1 C1 V2 C2 V3 C3 T</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .G   Emi             C D7            G            D7         G  D7
 1Nová! Každé ráno je nová,|ku mne je láska Božia |prepodivne nová!||
 2Nová! Každé ráno je nová,|Golgotská láska je zas|prepodivne nová!||

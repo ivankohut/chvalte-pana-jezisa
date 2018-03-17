@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>136</hymn_number>
-  <presentation>1 C 2 C 3 C</presentation>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .D                                   Emi        A7
 1Čistá vlnka s vlnkou|ľahko letí     dole rokli_nou,
 2S jednou smelou túžbou|k Tebe idem, aby aj môj hlas,

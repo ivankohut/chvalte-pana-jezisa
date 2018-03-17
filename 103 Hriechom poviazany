@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>103</hymn_number>
-  <presentation>1 C 2 C</presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .C7                      F_F9 C7                F_F7
 1Hriechom bol som poviazaný, |gniavili ma viny, bôľ.||
 2Odkedy som Pána stre____tol,|odkedy už čistý   som,||

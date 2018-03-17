@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>117</hymn_number>
-  <presentation>1 C 2 C</presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[]
+  <lyrics>[V]
 .G              _                    Ami        D7
 1Hriech očistí  krv Kristova, hriech očistí krv Kristova, 
 2Z tých prebodnutých Jeho rán krv    očistná sa núka nám 
