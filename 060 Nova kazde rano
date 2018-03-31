@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>60</hymn_number>
-  <presentation>V1 C1 V2 C2 V3 C3 T</presentation>
+  <presentation>V1 C1 V2 C2 V3</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -24,19 +24,12 @@
 .G  Emi              C  D7            G            D7         G
 1Nová! Každé ráno je nová,|pre mňa je Božia milosť|prepodivne nová!
 2Nová! Každé ráno je nová,|vyliata    Božia milosť|prepodivne nová!
-3Nová! Každé ráno je nová,|vyliata    Božia milosť|prepodivne nová!
-;
+.G  G7               C       Cmi   G            D7         G
+3Nová! Každé ráno je nová,|vyliata Božia milosť|prepodivne nová!
 [C]
 .D7                  G       D7     G
 1Verný je, nesklame,|v láske stály  je,
 2Ak zostaneme v Ňom,|urču____je náš cieľ,
-3Ak zostaneme v Ňom,|urču____je náš cieľ,
 .D  A7       D           G      A7     D7
 1zá_chranná  Jeho moc   |prameň náde___je.
-2je žriedlom našich síl,|sledu__je náš smer.
-3je žriedlom našich síl,|sledu__je náš smer.
-;
-;po 3. verši
-[T]
-.G  G7               C       Cmi   G            D7         G
- Nová! Každé ráno je nová,|vyliata Božia milosť|prepodivne nová!</lyrics></song>
+2je žriedlom našich síl,|sledu__je náš smer.</lyrics></song>
