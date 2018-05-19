@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>141</hymn_number>
-  <presentation>V1 C1 V2 C2</presentation>
+  <presentation>V1 C1 C2 V2 C1 C2 C3</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -39,6 +39,9 @@
 . G        A                           G                 D
 1„Bože, si môj Pán,|nechcem byť viacej sám,|seba Ti cele dám“.||
 2„Bože, si môj Pán,|nechcem byť viacej sám,|seba Ti cele dám“.||
-.                   D         G            Ab   D
-1Pán ťa vylieči     z rán.|Tú lásku,|na ktorú čakáš.
-2Tak lásku v Ňom spoznáš. |Tú lásku,|na ktorú čakáš.</lyrics></song>
+.                   D
+1Pán ťa vylieči     z rán.
+2Tak lásku v Ňom spoznáš.
+[C3]
+.   G            Ab   D
+ Tú lásku,|na ktorú čakáš.</lyrics></song>
