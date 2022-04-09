@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Evanjelium</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>9</hymn_number>
   <presentation>C V1 C V2 C V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .E  A    E   E  A    E
  Evanjelium, evanjelium.
@@ -35,4 +22,5 @@
 .E  A    E   E  A    E   E  A    E
 1Evanjelium, evanjelium,|evanjelium.
 2Evanjelium, evanjelium,|evanjelium.
-3Evanjelium, evanjelium,|evanjelium.</lyrics></song>
+3Evanjelium, evanjelium,|evanjelium.</lyrics>
+</song>

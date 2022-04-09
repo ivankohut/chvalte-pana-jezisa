@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Čo môžem, Pane, vykonať?</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>67</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G         C      D7      G     C             G
 1Čo môžem, Pane,  vyko____nať? |Som tu, pošli mňa!
@@ -31,4 +18,5 @@
 .G                D          Cdim    D7    G
  Sluha som, chcem poslúchať,|som tu, pošli mňa,
 .G                     C   Ami  G       D7    G
- keď voláš ma, nebudem zaháľať,|som tu, pošli mňa!</lyrics></song>
+ keď voláš ma, nebudem zaháľať,|som tu, pošli mňa!</lyrics>
+</song>

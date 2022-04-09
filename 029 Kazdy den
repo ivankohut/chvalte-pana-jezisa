@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Každý deň</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>29</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .      E      C#mi            F#mi
 1Každý deň do každej žitia    chvíle,
@@ -48,4 +35,5 @@
 .      H7
 1dobre vedie k neba výšinám.
 2živej vody vyteká tu prúd.
-3ráč ma k cieľu nebeskému viesť.</lyrics></song>
+3ráč ma k cieľu nebeskému viesť.</lyrics>
+</song>

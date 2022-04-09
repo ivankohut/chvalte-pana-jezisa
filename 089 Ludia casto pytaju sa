@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ľudia často pýtajú sa</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>89</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .D             A7        D      Hmi      Emi   A7   D
 1Ľudia často   pýtajú sa,|prečo kráčam   za Je_ži___šom,||
@@ -31,4 +18,5 @@
 1bez Neho už ďalej žiť, |bez Neho už ďalej žiť.
 2jediný mi silu    dá,  |jediný mi   silu  dá.
 3pre každého pomoc má,  |pre každého pomoc má.
-4nebudeš mať  trápenie, |nebudeš mať trápe_nie.</lyrics></song>
+4nebudeš mať  trápenie, |nebudeš mať trápe_nie.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Najlepšie života sily</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>63</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .A                     D Hmi   E7                     A
 1Najlepšie života      sily,  |mladosti najkrajší     kvet,
@@ -32,4 +19,5 @@
 .A                   D  D#dim E7                     A
 1Pán za vás na kríži vi_sel, |On v službe vás mať by chcel.
 2s práporom   Spasiteľo_vým, |na ňom krv obeti       zrieť.
-3Na Krista uprime    zraky,  |On dá nám víťazstva    jas!</lyrics></song>
+3Na Krista uprime    zraky,  |On dá nám víťazstva    jas!</lyrics>
+</song>

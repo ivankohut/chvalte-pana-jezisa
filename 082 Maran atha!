@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Maran atha!</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>82</hymn_number>
   <presentation>C V1 P C V2 P C V3 P C V4 P</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .C       F   C           F    C         G7
   Maran atha,|Pane, príď opäť v nádhere k nám.
@@ -31,4 +18,5 @@
 .C       F   C           F    C         G
   Maran atha,|Pane, príď opäť v nádhere k nám,
 .C       F   C         F     C            G C
-  Maran atha,|na konci časov zostúp k nám zasa.</lyrics></song>
+  Maran atha,|na konci časov zostúp k nám zasa.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zvíťazíme!</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>93</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .C      F      C  G7 C          F      C  G7 C
 1Zvíťa__zíme   ur_či_te,|  zvíťazíme   ur_či_te,
@@ -34,4 +21,5 @@
 2lebo pevne verím,|ó, bratia, v srdci ú_primnom,|zvíťazí__me  ur_či_te!
 3lebo pevne verím,|ó, bratia, v srdci ú_primnom,|zvíťazí__me  ur_či_te!
 4lebo pevne verím,|ó, bratia, v srdci ú_primnom,|zvíťazí__me  ur_či_te!
-5lebo pevne verím,|ó, bratia, v srdci ú_primnom,|zvíťazí__me  ur_či_te!</lyrics></song>
+5lebo pevne verím,|ó, bratia, v srdci ú_primnom,|zvíťazí__me  ur_či_te!</lyrics>
+</song>

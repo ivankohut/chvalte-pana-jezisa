@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Chváľte Pána Ježiša</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>1</hymn_number>
   <presentation>C V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .        D      G D       G D
  Chváľte Pána Ježiša,|haleluja,
@@ -31,4 +18,5 @@
 1v   ľudskej biede   pre  nás žil,|ha___le_lu____ja.
 2  triumfálne   z mŕtvych vstal,  |ha___le_lu____ja.
 3učí z  lásky,  vie__ry   žiť,    |ha___le_lu____ja.
-4zaznie chválou kaž__dý   hlas,   |ha___le_lu____ja.</lyrics></song>
+4zaznie chválou kaž__dý   hlas,   |ha___le_lu____ja.</lyrics>
+</song>

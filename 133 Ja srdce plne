@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ja srdce plné</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>133</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G                D7             G         A   D7
 1Ja srdce plné    plesania|chcem zložiť na ol__tár,
@@ -28,4 +15,5 @@
 2Mám nádej v Tvojom zmierení,|mám slávu v Tvojom spasení,
 .D7       Ami           D7     G      D7     G
 1mám silu v Jeho   žehnaní,|ja všetko v Bohu mám!
-2mám silu v Tvojom žehnaní,|ja všetko v Tebe mám.</lyrics></song>
+2mám silu v Tvojom žehnaní,|ja všetko v Tebe mám.</lyrics>
+</song>

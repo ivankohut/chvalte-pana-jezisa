@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Môj Bože, ja Ťa chválim</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>114</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .F                  C7                        F
 1Môj Bože, ja Ťa    chválim,|môj Bože, mám Ťa rád,
@@ -26,4 +13,5 @@
 1že tak  miluješ ľudí,|na kríž šiel si umie___rať.
 2no láska  Tvoja božská|k sebe zve ma  na___veky.
 3a dávaš   práva synov,|večný  život   v Tebe mám.
-4že nie na zemi  časnej,|ale   v nebi  domov  mám.</lyrics></song>
+4že nie na zemi  časnej,|ale   v nebi  domov  mám.</lyrics>
+</song>

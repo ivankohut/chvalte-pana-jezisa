@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Spievajme Pánovi</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>160</hymn_number>
   <presentation>C V1 C V2 C V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .G                                                                     A   D
  Spievajme: Chvála buď Pánovi,|haleluja,|spievajme: chvála buď Jemu,|haleluja.||
@@ -31,4 +18,5 @@
 .      G         G7       C       G             D7     G
 1  oslepený      hriechom blúdil  som,|Ježiš mi vrátil zrak.
 2pripraviť chcem miesto   všetkým tým,|ktorí mi verní  sú.
-3a tam prekrás___nymi     piesňa__mi|Pána      oslavo__vať.</lyrics></song>
+3a tam prekrás___nymi     piesňa__mi|Pána      oslavo__vať.</lyrics>
+</song>

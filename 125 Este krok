@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Este krok</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>125</hymn_number>
   <presentation>C V C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .   G          C           D             G
  /: Ešte krok, jeden krok,|vieru daj pre jeden krok!
@@ -25,4 +12,5 @@
 .G                          C                     D             G
  Aj keď idúc cestou slabneš|a deň tmavý je,|nemaj strach z noci zlej!||
 .G                          C                          D          G
- Keď ti vraví Spasiteľ:|„Som s tebou, neboj sa,|za mnou poď! Stále bdej!“</lyrics></song>
+ Keď ti vraví Spasiteľ:|„Som s tebou, neboj sa,|za mnou poď! Stále bdej!“</lyrics>
+</song>

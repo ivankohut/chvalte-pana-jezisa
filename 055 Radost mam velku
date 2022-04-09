@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Radosť mám veľkú</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>55</hymn_number>
   <presentation>V1 C V2 C V3 C </presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .       C                      G
 1Radosť mám veľkú, že som spasený,|že ma Pán Ježiš vykúpil,
@@ -29,4 +17,4 @@
  Kto si spasený, so mnou raduj sa,|spievaj piesne oslavné.
 .    F           C             G     G7    C
  O Ježišovi, o Jeho láske,|o milosti nám danej.</lyrics>
-  <hymn_number>55</hymn_number></song>
+</song>

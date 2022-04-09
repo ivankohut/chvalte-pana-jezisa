@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Bez Boha blúdil som</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>128</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .           G      G7     C            G                   Ami_D      G
 1Bez Boha   blúdil som|ja svetom sám a sám,|bez plnej radosti| nepokojný.||
@@ -27,4 +14,5 @@
 .        G7            C            G             Ami D7       G
  To bude najkrásnejší,|najkrásnejší deň,|keď zazneje  ten|Jeho hlas,||
 .        G  G7         C            G               Ami_D7       G_C_G
- to bude najkrásnejší,|najkrásnejší deň,|keď stretneme sa|tvárou v tvár.</lyrics></song>
+ to bude najkrásnejší,|najkrásnejší deň,|keď stretneme sa|tvárou v tvár.</lyrics>
+</song>

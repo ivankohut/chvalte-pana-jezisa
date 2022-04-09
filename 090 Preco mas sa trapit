@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Prečo máš sa trápiť?</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>90</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G             C      Ami            D    H             Emi         A7               D7
 1 Prečo máš sa trápiť,|v cele klamu, bied,|prikutý ku   hriechu,|ťa morí kráľ tvoj   svet.||
@@ -27,4 +14,5 @@
 .          Hmi   Emi      Ami              D
  /: Pán je mocný očistiť,|vyrvať z hriecha pút,
 .G      Hmi     Emi         Ami    D1   G
-  prečo nechceš minulosť|už navždy zavrhnúť?! :/</lyrics></song>
+  prečo nechceš minulosť|už navždy zavrhnúť?! :/</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Bože veľký</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>155</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .E           H7               E        H7       E
 1Bože veľký, Kráľu nebies,   |Tvoj nám pokoj    daj,
@@ -28,4 +15,5 @@
 2Ty si platil  nie peniazmi,|striebrom, ani zlatom,
 .A                   E                 H7             E
 1každý, kto je Tvoj, nech Ti slúži,   |pokiaľ je ešte čas.
-2na tom kríži        hrubom, bolestnom|platil si  životom.</lyrics></song>
+2na tom kríži        hrubom, bolestnom|platil si  životom.</lyrics>
+</song>

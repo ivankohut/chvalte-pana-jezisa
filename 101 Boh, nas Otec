@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Boh, náš Otec</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>101</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .Eb       Gmi      Ab       Eb       Ab    Eb          F9  Bb
 1Boh, náš Otec,    Boh, náš Otec,   |Ty si hodný cti a chvály,
@@ -31,4 +18,5 @@
 1Ty si hodný cti a chvály.
 2Ty si hodný cti a chvály.
 3Ty si hodný cti a chvály.
-4Ty si hodný cti a chvály.</lyrics></song>
+4Ty si hodný cti a chvály.</lyrics>
+</song>

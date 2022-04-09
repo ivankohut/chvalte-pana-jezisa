@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ježiš, môj vládca</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>58</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G                  Ami       D7         G                     Ami         D7
 1Ježiš, môj vládca,|stále ma  ľúbi,     |dal mi svoj život,   |s ním ma  vykúpil.||
@@ -29,4 +16,5 @@
 .G             A7mi D7                  G
  Patrím už Ježišo___vi,|Pán Ježiš patrí mne,
 .          E7     Ami C#dim G           D7     G
- tak túžim zostať naveky,  |On mi v tom pomôcť vie.</lyrics></song>
+ tak túžim zostať naveky,  |On mi v tom pomôcť vie.</lyrics>
+</song>

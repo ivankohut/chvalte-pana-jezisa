@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Čistá vlnka</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>136</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .D                                   Emi        A7
 1Čistá vlnka s vlnkou ľahko letí    |dole  roklinou,
@@ -29,4 +16,5 @@
 .G                             D        D7
  Sláva Ti, Bože, sláva, sláva,|Bože jediný.
 .G                             D        A7
- Sláva Ti, Bože, sláva, sláva,|Bože jediný.</lyrics></song>
+ Sláva Ti, Bože, sláva, sláva,|Bože jediný.</lyrics>
+</song>

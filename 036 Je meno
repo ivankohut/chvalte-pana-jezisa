@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Je meno</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>36</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .   E                          H7            E A
 1Je meno, ktoré radšej mám|než sveta všetok  jas.
@@ -29,4 +16,5 @@
 .E                   H7              E A
  Veľmi Ježiša ľúbim,|v pravde Ježiša ľúbim,
 .E      As       C#mi       F#mi   H7    E
- navždy budem ho ľúbiť,|veď za mňa život dal.</lyrics></song>
+ navždy budem ho ľúbiť,|veď za mňa život dal.</lyrics>
+</song>

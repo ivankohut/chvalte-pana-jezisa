@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Priazeň sveta vrtkavá</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>121</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .        G           G7         C
 1Priazeň sveta  vrtkavá,|   nadobro keď zlyháva
@@ -39,4 +26,5 @@
 .                                   C         C#dim
  Pochybností tiež sa vzdaj,|na svoj osud nereptaj,
 .    G             D7            G_C_G
- dôveruj Mu stále,|všetko k Nemu nes.</lyrics></song>
+ dôveruj Mu stále,|všetko k Nemu nes.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Len dvihni, brat môj</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>143</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G                     H7     Emi
 1Len dvihni, brat môj, lampu  svoju, |nech čím viac svetla dá.
@@ -31,4 +18,5 @@
 .G                            D             G
  Dopredu kráča bratov zástup,|ja medzi nimi som.
 .D7                        G         G7       C          D7  G
- Kiežby našich piesní tóny|prebudili milióny |k ceste za Ježišom.</lyrics></song>
+ Kiežby našich piesní tóny|prebudili milióny |k ceste za Ježišom.</lyrics>
+</song>

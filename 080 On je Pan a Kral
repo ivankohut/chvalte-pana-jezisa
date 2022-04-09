@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>On je Pán a Kráľ</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>80</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .      E     A            E          H7         E
 1On je Pán a Kráľ|môjho   srdca,|môj Ježiš, môj Ježiš.||
@@ -29,4 +16,5 @@
 .A      E      F#     H7
  Ježiš, Ježiš, Ježiš, Ježiš.
 .      E     A          Ab C#mi    E    A   H7   E
- On je Pán a Kráľ môjho srdca,|som šťastný, ľúbi ma.</lyrics></song>
+ On je Pán a Kráľ môjho srdca,|som šťastný, ľúbi ma.</lyrics>
+</song>

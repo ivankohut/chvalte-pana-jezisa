@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ľudia sa ma pýtajú</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>112</hymn_number>
   <presentation>V1 C V2  C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .      E         E7         A     E                                      H7
 1Ľudia sa ma pýtajú,|kde ja domov mám,|mnohí sa ma pýtajú,|kde ho        mám?||
@@ -27,4 +15,4 @@
  Môj domov je v nebesiach,|v krajine bez mračných dní,
 .           E          E7        A    E                            H7    E
  v šťastnom kraji nebeskom|domov duše mám,|v šťastnej krajine svoj domov mám.</lyrics>
-  <hymn_number>112</hymn_number></song>
+</song>

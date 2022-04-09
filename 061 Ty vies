@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ty vieš</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>61</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .C       Ami        Dmi    E7    Ami           D7     G  G7
 1Ty vieš, že chcem, Pane   môj, |bojovať ten   dobrý  boj.
@@ -26,4 +13,5 @@
 1Kým som mladý, plný  síl, |rád by   som Ti ku cti žil.
 2Ty  si láska, vravíš nám, |blížnych k Tebe zavo___lám.
 3Kde je žriedlo sily  viem,|ľuďom    o ňom  rozpo__viem.
-4Len mi múdrosť, silu daj, |Duchom   svojím pomá___haj!</lyrics></song>
+4Len mi múdrosť, silu daj, |Duchom   svojím pomá___haj!</lyrics>
+</song>

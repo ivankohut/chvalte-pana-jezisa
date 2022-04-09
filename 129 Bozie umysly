@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Božie úmysly</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>129</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .         F                  Bb     F                  G7   C7
 1Božie    úmysly s nami sú   úžas___né,|plány Jeho     sláv_ne:
@@ -29,4 +16,5 @@
 .      C7               F                C7             F
  Bojuj dobrý boj,|bojuj dobrý boj,|verne po boku svojho vodcu stoj!||
 .      C7               F               Bb     C    F
- Bojuj dobrý boj,|bojuj dobrý boj!|Bude slávny údel tvoj.</lyrics></song>
+ Bojuj dobrý boj,|bojuj dobrý boj!|Bude slávny údel tvoj.</lyrics>
+</song>

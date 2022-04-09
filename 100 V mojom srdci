@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>V mojom srdci</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>100</hymn_number>
   <presentation>V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
 .D7            G                       D7                     G
  V mojom srdci pieseň chvály znie,|tam pieseň chvály znie|jak harfy nebeské.||
 .D7            G                      D7               G
- V mojom srdci pieseň chvály znie|jak zlaté harfy nebeské.</lyrics></song>
+ V mojom srdci pieseň chvály znie|jak zlaté harfy nebeské.</lyrics>
+</song>

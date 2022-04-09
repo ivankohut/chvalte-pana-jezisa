@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Prečo ste smutní?</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>62</hymn_number>
   <presentation>C V1 C V2 C V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .C                 G7                                 C      F     C
  Prečo ste smutní?|Pán je prítomný!|Prečo ste smutní?|Pán je prítomný!||
@@ -37,4 +25,4 @@
 1v Kristu  nájdeš|mladosť, radosť,   spasenie.
 2lebo      vraví:|„Ja som  s vami     naveky.“
 3S Kristom kráčaj,|nájdeš  pokoj, správny smer.</lyrics>
-  <hymn_number>62</hymn_number></song>
+</song>

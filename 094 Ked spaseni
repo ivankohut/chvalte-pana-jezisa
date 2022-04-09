@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keď spasení</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>94</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .          F                                        C7
 1Keď  spasení tam v nebesiach|pred Ježišom raz budú stáť,
@@ -26,4 +13,5 @@
 1ó, Pane, túžim byť tiež medzi nimi |a Tebe  vrúcnu   chválu  vzdať.
 2ó, Pane, túžim byť tiež medzi nimi,|  haleluja  keď  bu__de  znieť.
 3ó, Pane, túžim byť tiež medzi nimi |a Tebe  vďa_ku   za__spievať.
-4Ó, Pane, túžim byť tiež medzi tými,|do neba kto_rých po__vo__láš.</lyrics></song>
+4Ó, Pane, túžim byť tiež medzi tými,|do neba kto_rých po__vo__láš.</lyrics>
+</song>

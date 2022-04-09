@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nestarám sa</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>70</hymn_number>
   <presentation>V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
 .     A                    A7     D          A
  Nestarám sa o dni ďalšie,|zajtra čo mi prinesie,
@@ -28,4 +15,5 @@
 .      D               A           F#mi H7         E7
  Mnohí chcú znať žitia taje,|preniknúť  cez ďalsie dni,
 .        A     A7         D       D#dim A   E7        A
- ja však viem: Boh má ich v moci,|osta__nem v Ňom ukrytý.</lyrics></song>
+ ja však viem: Boh má ich v moci,|osta__nem v Ňom ukrytý.</lyrics>
+</song>

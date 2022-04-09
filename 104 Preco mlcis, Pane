@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Prečo mlčíš, Pane?</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>104</hymn_number>
   <presentation>C V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .Ami G  F G    F E7  Ami       Dmi          E7
  Pre_čo mlčíš, Pane,|keď zloba ľudská život marí,
@@ -41,4 +29,4 @@
 2človek, ktorý  pravdu nemá  rád.
 3dnes pre zmenu kričí:  Križovať!
 4odpoveď na     všetko čítať smiem.</lyrics>
-  <hymn_number>104</hymn_number></song>
+</song>

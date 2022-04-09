@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keď som bol strápený</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>86</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G                       D7                          G
 1Keď som bol veľmi strápený,|mámením hriechu    znavený,||
@@ -31,4 +18,5 @@
 1Prišiel Pán Ježiš, môj drahý Ježiš|a do  srdca mi zvonky     dal.
 2Dal mi ich Ježiš,  môj drahý Ježiš,|aby som vždy bol šťastný s Ním.
 3V tej chvíli príde môj drahý Ježiš|a znovu  zvonky     rozzvučí.
-4I tebe ich dá,     i tebe    ich dá,|aby si bol vždy šťastný s Ním.</lyrics></song>
+4I tebe ich dá,     i tebe    ich dá,|aby si bol vždy šťastný s Ním.</lyrics>
+</song>

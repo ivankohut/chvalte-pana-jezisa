@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Jak prudkou vlnou</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>116</hymn_number>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .A           Hmi    E            A
 1Jak prudkou vlnou |v mori vzbúrenom
@@ -31,4 +18,5 @@
 .        A7   D         D#dim E7               A
  Jačaním vĺn, spenených vĺn, |Jezu, preveď môj žitia čln.
 .           A7   D        D#dim E7         A
- V srdci Ťa mám, mocný si Pán, |veslo Tebe dám.</lyrics></song>
+ V srdci Ťa mám, mocný si Pán, |veslo Tebe dám.</lyrics>
+</song>

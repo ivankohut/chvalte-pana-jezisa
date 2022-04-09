@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nový Jeruzalem</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>78</hymn_number>
   <presentation>V1 P C V2 P C V3 P C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G             C      Ami      D7            G
 1Čakám na ten  slávny deň,|keď Ježiš ako     Kráľ
@@ -38,4 +25,5 @@
 .                                G7  C               Ami
  Nieto tam starosti,|slzy a žalosti,|nieto hriech ni čas.
 .D7                                          G
- Ježiš Kristus je v ňom svit slnka,|nádherný chrám.</lyrics></song>
+ Ježiš Kristus je v ňom svit slnka,|nádherný chrám.</lyrics>
+</song>

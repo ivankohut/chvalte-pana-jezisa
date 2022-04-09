@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Každý spievaj Bohu chválu</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>118</hymn_number>
   <presentation>V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>;KÁNON
 [V1]
 .C
  Každý spievaj Bohu chválu:
 .F     C   F     C   G     C
- Haleluja! Haleluja! Haleluja!</lyrics></song>
+ Haleluja! Haleluja! Haleluja!</lyrics>
+</song>

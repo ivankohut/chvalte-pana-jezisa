@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Spoj nás v jedno</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>56</hymn_number>
   <presentation>V1 C V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .E                 E6    E                      H7            E
 1Spoj nás v jedno, Pane,|spoj nás jedným putom,|čo nemôže byť zlámané.||
@@ -23,4 +10,5 @@
 1Spoj nás v jedno, Pane,|spoj nás jedným putom,|spoj nás tou bratskou láskou.
 [C]
 .       H7    E           H7    E H7         H7    E           H7    E
- Je len jeden Boh,|je len jedno telo,|je len jeden Kráľ,|preto spievame:</lyrics></song>
+ Je len jeden Boh,|je len jedno telo,|je len jeden Kráľ,|preto spievame:</lyrics>
+</song>

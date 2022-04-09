@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nič nie je nemožné</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>13</hymn_number>
   <presentation>V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
 .    E      H7               E
  Nič nie je nemožné, keď veríme.
@@ -24,4 +11,5 @@
 .             F#mi       H7       E
  /: Viera v Božie slovo,|v živé Božie slovo,
 .C#7     F#mi           H7  E
- pohne rukou Božou,|keď veríme. :/</lyrics></song>
+ pohne rukou Božou,|keď veríme. :/</lyrics>
+</song>

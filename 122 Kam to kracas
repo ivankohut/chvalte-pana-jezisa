@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kam to kráčaš</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>122</hymn_number>
   <presentation>V1 C V2 C </presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .E                         A                          H7
 1Kam to kráčaš do neznáma,|osamelý a bez Pána?       |Stoj, stoj! Stoj!||
@@ -31,4 +18,5 @@
 .            E7            A    Ami
  „Život svoj dám len Tebe,|Pane môj!
 .       E_C#7       F#mi_H H7        E
- Veď ma sám, veď ma sám,  |chcem byť Tvoj!“</lyrics></song>
+ Veď ma sám, veď ma sám,  |chcem byť Tvoj!“</lyrics>
+</song>

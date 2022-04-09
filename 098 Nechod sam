@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nechoď sám</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>98</hymn_number>
   <presentation>V1 C V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 ;1. hlas
 .       E                    A            E              F#7 H7
@@ -30,4 +17,5 @@
 ;2. hlas
 [C]
 .             A E                 A E            H7   E
- Volá ťa Pán, a_men.|Volá ťa Pán, a_men.|Volá ťa Pán, amen.</lyrics></song>
+ Volá ťa Pán, a_men.|Volá ťa Pán, a_men.|Volá ťa Pán, amen.</lyrics>
+</song>

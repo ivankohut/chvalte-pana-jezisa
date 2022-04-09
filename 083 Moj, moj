@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Môj, môj</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>83</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G
 1Môj, môj, môj, môj,|Ježiš je môj,
@@ -31,4 +19,4 @@
 2mám,   mám,   mám,   mám,  |Ježiša mám,   |Ježiša vždycky   mám.
 3sám,   sám,   sám,   sám,  |s Ježišom sám,|s Ježišom často  sám.
 4Chcem, chcem, chcem, chcem,|Ježiša chcem, |Ježiša vždycky   chcem.</lyrics>
-  <hymn_number>83</hymn_number></song>
+</song>

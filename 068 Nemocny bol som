@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nemocný bol som</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>68</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .F                     Bb                C7           F
 1Nemocný bol som a     poškvrnený,|keď   uvidel ma    Pán.
@@ -29,4 +16,5 @@
 .               Gmi-C7               F    C7
  Ježišov slávny kríž,|Ježišov slávny kríž,
 .F                  Bb      Gmi    C7             F-Bb-F
- zaplatil dlh môj|i voľnosť mi dal|Ježišov slávny kríž.</lyrics></song>
+ zaplatil dlh môj|i voľnosť mi dal|Ježišov slávny kríž.</lyrics>
+</song>

@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Či už viete</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>123</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .C                           G7                                  C
 1Či už viete, že ste svätyňa Božia? |Či už viete, že ste svätyňa Božia?
@@ -29,4 +17,4 @@
  Plní moci, vďačnosti a      chvály.|Plní moci, vďačnosti a      chvály.
 .      C7                    F       Cdim     C             G7    C
  Plní  moci, vďačnosti a     chvály.|Svätyňa, v ktorej býva Svätý Duch.</lyrics>
-  <hymn_number>123</hymn_number></song>
+</song>

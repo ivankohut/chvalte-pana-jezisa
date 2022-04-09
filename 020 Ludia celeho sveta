@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ľudia celého sveta</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>20</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .Dmi          E        A7              Dmi
 1Ľudia celého sveta sú bratia|odrezaní množstvom riek.
@@ -40,4 +27,5 @@
 2Ach, prečo všetkých nemiluješ|tou láskou, ktorá pojí,
 .  D           A7       D  Dmi D Dmi
 1a zem by bola časťou neba?
-2a zem by bola časťou neba?</lyrics></song>
+2a zem by bola časťou neba?</lyrics>
+</song>

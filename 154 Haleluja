@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Haleluja</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>154</hymn_number>
   <presentation>C V1 C V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .D   F# Hmi G A   D_F# Hmi     F#mi  G             D   E A
  Halelu_ja, haleluja!| Za naše spase_nie spievam  |haleluja.||
@@ -35,4 +22,5 @@
 2Naša cesta vo večnosti| nádherný má cieľ,
 .D             Hmi           C             A
 1zasľúbenia    srdcu vravia:|Neboj sa, len ver!
-2Pane náš, kde s Tebou máme |na dedičstve  diel.</lyrics></song>
+2Pane náš, kde s Tebou máme |na dedičstve  diel.</lyrics>
+</song>

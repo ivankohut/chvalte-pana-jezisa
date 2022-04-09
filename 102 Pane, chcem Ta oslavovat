@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pane, chcem Ťa oslavovať</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>102</hymn_number>
   <presentation>V1 V2 V3 V4 V5</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .D                                 A7
 1Pane, chcem Ťa piesňou oslavovať,|Pane, chcem Ťa piesňou oslavovať,
@@ -28,4 +15,5 @@
 2miluješ ma láskou nekonečnou,    |za to Ti vďaku     vzdám.
 3odpúšťaš hriech ľudí tohto sveta,|lebo si láska      sám.
 4na Golgote umieral si za mňa,    |nemusím hynúť v    tmách.
-5drahý Pane, Tebe patrí vďaka,    |česť, chvála   naveky.</lyrics></song>
+5drahý Pane, Tebe patrí vďaka,    |česť, chvála   naveky.</lyrics>
+</song>

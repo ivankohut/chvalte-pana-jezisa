@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>V jednom sade</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>44</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .Emi      D           Emi          H7
 1V jednom sade rástla|jabloň pekne zelená,
@@ -40,4 +27,5 @@
 .H7                Emi
 1možno bude plody  mať.
 2popol vietor rozfúka.
-3stony vietor rozfúka.</lyrics></song>
+3stony vietor rozfúka.</lyrics>
+</song>

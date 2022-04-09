@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Hriechom poviazaný</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>103</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .C7                      F_F9 C7                F_F7
 1Hriechom bol som poviazaný, |gniavili ma viny, bôľ.
@@ -27,4 +14,5 @@
 .F7  Gmi   C7    F  _F7     Bb     Ami    Dmi   G7_C7
  Pán Ježiš sa ma dotkol,|ó, slávnu radosť teraz mám.
 .F   C7       F  F7  Bb      F      Gmi C7       F
- Aký predivný je môj Pán!|On celkom ma  vyliečil z rán.</lyrics></song>
+ Aký predivný je môj Pán!|On celkom ma  vyliečil z rán.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Anjeli z neba</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>130</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .F
 1Anjeli z neba ku vám sa zniesli,|pastieri, pastieri,
@@ -26,4 +13,5 @@
 1aby ste dieťa Betlemské   prví  |uzreli,     u___zre_li.
 2 vykupiteľské dielo v Ňom Otec  |prichystal, pri_chystal.
 3dary Mu nesú  do srdca    pevne |zavrené,    za__vre_né.
-4Otcovi za dar nebeský     chválu|vzdávajú,   vzdáva__jú.</lyrics></song>
+4Otcovi za dar nebeský     chválu|vzdávajú,   vzdáva__jú.</lyrics>
+</song>

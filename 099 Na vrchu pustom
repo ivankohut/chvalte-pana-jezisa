@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Na vrchu pustom</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>99</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .F                             C7            A#     C7        F
 1Na vrchu pustom kríž zvláštny stál,|nemúdry zástup sa iba    smial.
@@ -29,4 +16,5 @@
 .       F                           C7                      F     C7               F
  Ježišu drahý,|Ty si raz na Golgote mrel,|odstránil hriecha horký blen,|tak slávny kríž.||
 .                                       C7                  F    C7        F
- Svoj svätý život si pre nás|dobrovoľne dal|a biednym ľuďom|vyzískal vykúpenie.</lyrics></song>
+ Svoj svätý život si pre nás|dobrovoľne dal|a biednym ľuďom|vyzískal vykúpenie.</lyrics>
+</song>

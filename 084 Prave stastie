@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pravé šťastie</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>84</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G             Emi           C               D7   G           Hmi           C_E7
 1Pravé šťastie hľadáš aj ty,|nechceš smutným byť,|nepýta sa   ťa nik, či si sám.||
@@ -37,4 +24,5 @@
 .           D(Ami)          D7          C G
  Áno, to je predivné (predivné),|o tebe Ježiš vie (predivné),
 .          D(A9) (A7)          D7                     G_C_G
- najväčším šťas__tím je (predivné),|keď Ho osobne spoznáš.</lyrics></song>
+ najväčším šťas__tím je (predivné),|keď Ho osobne spoznáš.</lyrics>
+</song>

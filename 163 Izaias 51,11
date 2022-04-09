@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Izaiáš 51,11</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>163</hymn_number>
   <presentation>V C V</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .   A                                 A
  /: A tak tí,|ktorých krvou vykúpil Ježiš,
@@ -27,4 +14,5 @@
 .A7          D           A
  Len šťastia lúč zažiari tam,
 .     H7               Hmi E7
- zármutok ujde nevedno ka__m.</lyrics></song>
+ zármutok ujde nevedno ka__m.</lyrics>
+</song>

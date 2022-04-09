@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kde, Pane, si?</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>46</hymn_number>
   <presentation>C V1 C V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
 .Ami        Dmi G            C  Ami
  Kde, Pane, si, kde je Tvoja sláva?
@@ -37,4 +24,5 @@
 2kde som  iným ku pomoci|podal ruku           ochotnú,
 .       Ami                            Ami    Dmi
 1Verím, Pane, že si s tými,|v ktorých  síl už nieto viac.
-2tam   uprostred temnej noci|zrel som, Pane,  slávu tú.</lyrics></song>
+2tam   uprostred temnej noci|zrel som, Pane,  slávu tú.</lyrics>
+</song>

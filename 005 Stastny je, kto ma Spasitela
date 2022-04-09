@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Šťastný je, kto má Spasiteľa</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>5</hymn_number>
   <presentation>V1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
 .D                             A7
  Šťastný je, kto má Spasiteľa,|Ježiša kto má za priateľa,
@@ -36,4 +23,5 @@
 .D/A        A7    D F#mi D7 E
  Šťastie dá Ježiš sám.
 .D/A        A7    D
- Šťastie dá Ježiš sám.</lyrics></song>
+ Šťastie dá Ježiš sám.</lyrics>
+</song>

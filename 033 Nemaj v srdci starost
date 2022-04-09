@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nemaj v srdci starosť</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>33</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .C
 1Nemaj v srdci starosť,|nemaj v srdci starosť,||
@@ -41,4 +28,5 @@
 1/: tak ťa   bude   Pán Boh žehnať. :/
 2/: za     teba Pán veľa    platil. :/
 3/: Božie    sľuby  tie sú  verné. :/
-4/: v tom je duše   pravá   krása. :/</lyrics></song>
+4/: v tom je duše   pravá   krása. :/</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Som sám</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>47</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .    Ami                     E7
 1Som sám a život|nemá        cenu ďalej žiť,
@@ -40,4 +27,5 @@
 .    E7                                 Ami
 1ja  pokoj svoj ti dám,|ja spasím, požehnám.
 2máš bratov, pomáhaj,  |ich lásku    užívaj!
-3pod krížom Golgotským,|kde zomrel Boží Syn.</lyrics></song>
+3pod krížom Golgotským,|kde zomrel Boží Syn.</lyrics>
+</song>

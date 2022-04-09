@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ako v zošite žiaka</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>22</hymn_number>
   <presentation>V1 C1 V2 C2 V3 C3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .                E                       H7 E
 1Ako v zošite    žiaka  |ťažký, zložitý  príklad,
@@ -33,4 +20,5 @@
 .              H7                                E
 1čo je pravé a skutočne veľké,|za čo hodno život dať?
 2čo je pravé a skutočne veľké,|za čo hodno život dať?
-3to je pravé a skutočne veľké,|za to hodno život dať!</lyrics></song>
+3to je pravé a skutočne veľké,|za to hodno život dať!</lyrics>
+</song>

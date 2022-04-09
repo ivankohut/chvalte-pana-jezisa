@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>A zas je tu chvíľa tá</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>134</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .G                  Ami   D7                    G
 1A zas je tu chvíľa tá,  |ktorá roky        počíta.
@@ -33,4 +20,5 @@
 .G               C  Ami Emi       D7       G                   C
  Ďalej cesty povedú údo_lím i horami,|nech ruže šťastia rozkvitnú.
 .D7                    G
- Pán nech kráča pred nami.</lyrics></song>
+ Pán nech kráča pred nami.</lyrics>
+</song>

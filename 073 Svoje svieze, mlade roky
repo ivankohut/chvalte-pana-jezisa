@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Svoje svieže, mladé roky</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>73</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .       G             A7  D            Ami     D7     G
 1Svoje  svieže, mladé ro__ky |Kristu   chceme  zasvä__tiť,
@@ -29,4 +16,5 @@
 .      G             D            Ami  D7    G
  Dávaj pozor na hlas vodcu,|čo ti nebo pripravil,
 .                      C  Cmi       G    Ami D7   G
- noc sa chýli k svojmu koncu,|vydrž do posledných síl!</lyrics></song>
+ noc sa chýli k svojmu koncu,|vydrž do posledných síl!</lyrics>
+</song>

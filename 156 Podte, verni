@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Poďte, verní</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>156</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .F                 Gmi7    C7      F              Dmi Gmi7 C7
 1 Poďte, verní,    spievať chorál,|nech sa trasie o___blo__ha!
@@ -32,4 +19,5 @@
 .F     Bb  F   Gmi F  C   F
 1Nech  sa  všetko  o__zý__va!
 2hroz__nou smr_ťou zomrel sám.
-3Vstal a   več_ne  kraľu__je!</lyrics></song>
+3Vstal a   več_ne  kraľu__je!</lyrics>
+</song>

@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Noc v šíry</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>79</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .     D    A7    D           A7   D  G  D                 H7     Emi7 A7 D
 1Noc  v ší_ry už padá kraj  |a    slnko v mrakov diaľ|  zapadlo  zve__če_ra.||
@@ -28,4 +16,4 @@
 1   rozpráva dô___ve__ra. :/
 2v Ňom naša  o____chrana. :/
 3ó,    Pane  Je___ži__šu! :/</lyrics>
-  <hymn_number>79</hymn_number></song>
+</song>

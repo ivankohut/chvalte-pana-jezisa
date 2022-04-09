@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Odídi, Satan!</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>28</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .E                                H7
 1Odídi, Satan, odídi, Satan,     |neprijmem hlas tvoj!
@@ -39,4 +26,5 @@
 .                       H7 E               H7 E
  Táto moc ťa|prinúti aj te_raz,|prinúti aj te_raz,
 .           F#mi  H7    E
- prinúti aj teraz k ústupu.</lyrics></song>
+ prinúti aj teraz k ústupu.</lyrics>
+</song>
